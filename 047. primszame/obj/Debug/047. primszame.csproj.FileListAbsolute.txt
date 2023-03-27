@@ -1,0 +1,6 @@
+C:\Users\gratt\source\repos\047. primszame\047. primszame\bin\Debug\_047.primszame.exe.config
+C:\Users\gratt\source\repos\047. primszame\047. primszame\bin\Debug\_047.primszame.exe
+C:\Users\gratt\source\repos\047. primszame\047. primszame\bin\Debug\_047.primszame.pdb
+C:\Users\gratt\source\repos\047. primszame\047. primszame\obj\Debug\047. primszame.csproj.CoreCompileInputs.cache
+C:\Users\gratt\source\repos\047. primszame\047. primszame\obj\Debug\_047.primszame.exe
+C:\Users\gratt\source\repos\047. primszame\047. primszame\obj\Debug\_047.primszame.pdb
